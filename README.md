@@ -12,6 +12,9 @@ Atividade em dupla do curso de Java da Proway.
 7. O cadastro de linguagens deve solicitar o nome, descrição e a aplicação.
 8. Nome da linguagem deve conter no mínimo 3 caracteres.
 9. Aplicação deve ser apenas Frontend, Backend ou Mobile.
+10. O programa deve validar os dados assim que informado pelo usuário, caso o dado não atenda as regras de negócio, deve informar o usuário com uma mensagem de erro e solicitar que digite novamente.
+11.  Após o cadastro e as validações o sistema deve imprimir o dados cadastrados.
+
 
 ## Requisitos não funcionais
 1. A linguagem deve ser Java
@@ -20,5 +23,5 @@ Atividade em dupla do curso de Java da Proway.
 
 
 ### Devs
-@natyprys
-@rebeccamoraes
+[@natyprys](https://github.com/natyprys)
+[@rebeccamoraes](https://github.com/rebeccamoraes)
